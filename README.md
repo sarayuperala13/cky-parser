@@ -11,7 +11,7 @@ An implementation of the **Cocke-Kasami-Younger (CKY)** dynamic programming algo
 
 ```bash
 # Clone Repository
-git clone [https://github.com/sarayuperala13/cky-parser.git](https://github.com/sarayuperala13/cky-parser.git)
+git clone https://github.com/sarayuperala13/cky-parser.git
 cd cky-parser
 
 # Install Dependencies
